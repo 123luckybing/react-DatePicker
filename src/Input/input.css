@@ -1,0 +1,11 @@
+input {
+  box-sizing: border-box;
+  height: 34px;
+  width: 214px;
+  outline: none;
+  margin-left: 2px;
+  border: 1px solid rgb(238, 238, 238);
+  border-image: initial;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.6);
+}

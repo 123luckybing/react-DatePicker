@@ -1,0 +1,22 @@
+.each-day,
+.week div {
+  float: left;
+  box-sizing: border-box;
+  padding: 4px;
+  width: 28px;
+}
+
+.week div {
+  color: blueviolet;
+}
+
+.dateContent {
+  width: 210px; 
+  overflow: hidden; 
+  padding: 0px 8px;
+  font-size: 12px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 4px;
+  color: inherit;
+}
